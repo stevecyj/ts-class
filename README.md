@@ -1,1 +1,1 @@
-# ts-parcel
+# ts-class
