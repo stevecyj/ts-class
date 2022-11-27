@@ -14,11 +14,6 @@ class Person {
   }
 }
 
-// LuyiPerson.name = 'Luyi';
-// LuyiPerson.age = 22;
-// LuyiPerson.phone = '0999888888';
-// LuyiPerson.doEat('Ginsha', '橘色');
-
 let LuyiPerson = new Person('Luyi', 22, '0999888888');
 
 LuyiPerson.doEat('Ginsha', '橘色');
